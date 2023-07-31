@@ -1,6 +1,6 @@
-## Weather-Report-IoT
+# Weather-Report-IoT
 
-** Sensors Used:
+**Sensors Used:**
 
 1. BMP180
 2. DHT11
